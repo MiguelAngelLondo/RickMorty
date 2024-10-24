@@ -28,7 +28,7 @@ main{
     border-radius: 10px;
     background-color: rgb(71, 69, 63);
     border: double;
-    box-shadow: 4px 4px 5px #5050;
+    box-shadow: 5px 3px 20px 2px  rgb(17, 255, 0);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -37,6 +37,8 @@ main{
     gap: 30px;
   
 }
+
+
 .card-content{
     display: flex;
     flex-direction: column;
